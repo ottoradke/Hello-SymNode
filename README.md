@@ -31,7 +31,7 @@ Open a Command Prompt (assuming you are using Windows) and navigate to the place
 
 You should get a message that says: SymNode server running on port 3000
 
-# Connecting to SymNode
+# Connecting to Hello SymNode
 
 At this point, Hello SymNode is waiting for you to connect to it and issue a command. You will need to use telnet software like PuTTY to connect to the node application. 
 
