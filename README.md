@@ -48,10 +48,6 @@ If you issue the RG command, it will run a repgen (you can change which repgen i
 
 To disconnect, type: @quit
 
-# Hello SymNode on Github
-
-Hello SymNode is also hosted as a Github public repository. Visit https://github.com/ottoradke/Hello-SymNode to find the latest version of this application. I will do my best to keep the PowerOn Market Place version up to date as well.
-
 # License
 
 The Hello SymNode code is free to use and distribute, under the MIT License.
